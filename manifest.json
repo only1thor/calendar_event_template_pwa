@@ -1,0 +1,9 @@
+{
+  "short_name": "Calendar Event",
+  "name": "Calendar Event PWA",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#341649",
+  "description": "A simple PWA to create calendar events."
+}
+
